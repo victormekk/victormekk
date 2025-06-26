@@ -1,16 +1,39 @@
-## Hi there 👋
+👋Hola, soy Victor Peralta
+Ingeniero en Computación | Dev Full Stack
+<hr>
 
-<!--
-**victormekk/victormekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠Sobre mí
+Soy un ingeniero en computación con experiencia en desarrollo de software, visión por computadora y automatización de tareas. Me gusta crear soluciones prácticas y eficientes, combinando interfaces gráficas, procesamiento de datos y bases de datos.
+<hr>
 
-Here are some ideas to get you started:
+⚙️Tecnologías
+📝 Lenguajes    
+• JavaScript  
+• PHP  
+• C#  
+• Python  
+• HTML/CSS
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📦Frameworks y Librerías  
+• Node.js  
+• Vue.js 
+• Flask
+• OpenCV
+<hr>
+
+🗄️Bases de datos  
+• MySQL  
+• PostgreSQL
+• SQLite
+• SQL Server
+<hr>
+
+🛠️Otros  
+• Git
+• GitHub  
+• Azure DevOps
+• Linux
+<hr>
+
+¡Gracias por visitar mi perfil! 🙌
