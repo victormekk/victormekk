@@ -12,6 +12,6 @@
 
 <b>🗄️ Bases de datos:</b> MySQL | PostgreSQL | SQLite | SQL Server
 
-<b>🛠️ Otros:</b> Git | GitHub | Azure DevOps | Postman | Linux
+<b>🛠️ Otros:</b> Git | GitHub | Azure DevOps | Postman | Supabase | Linux
 
 <p><b>¡Gracias por visitar mi perfil! 🙌</b></p>
