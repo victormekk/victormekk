@@ -1,39 +1,40 @@
-👋Hola, soy Victor Peralta
-Ingeniero en Computación | Dev Full Stack
+<h1>👋 Hola, soy Victor Peralta</h1>
+<b>Ingeniero en Computación | Dev Full Stack</b>
 <hr>
 
-🧠Sobre mí
-Soy un ingeniero en computación con experiencia en desarrollo de software, visión por computadora y automatización de tareas. Me gusta crear soluciones prácticas y eficientes, combinando interfaces gráficas, procesamiento de datos y bases de datos.
+<h2>🧠 Sobre mí</h2>
+<p>Soy un ingeniero en computación con experiencia en desarrollo de software, visión por computadora y automatización de tareas. Me gusta crear soluciones prácticas y eficientes, combinando interfaces gráficas, procesamiento de datos y bases de datos.</p>
 <hr>
 
-⚙️Tecnologías
-📝 Lenguajes    
-• JavaScript  
-• PHP  
-• C#  
-• Python  
+<h2>⚙️ Tecnologías</h2>
+
+<b>📝 Lenguajes</b><br>
+• JavaScript<br>
+• PHP<br>
+• C#<br>
+• Python<br>
 • HTML/CSS
 <hr>
 
-📦Frameworks y Librerías  
-• Node.js  
-• Vue.js 
-• Flask
+<b>📦 Frameworks y Librerías</b><br>
+• Node.js<br>
+• Vue.js<br>
+• Flask<br>
 • OpenCV
 <hr>
 
-🗄️Bases de datos  
-• MySQL  
-• PostgreSQL
-• SQLite
+<b>🗄️ Bases de datos</b><br>
+• MySQL<br>
+• PostgreSQL<br>
+• SQLite<br>
 • SQL Server
 <hr>
 
-🛠️Otros  
-• Git
-• GitHub  
-• Azure DevOps
+<b>🛠️ Otros</b><br>
+• Git<br>
+• GitHub<br>
+• Azure DevOps<br>
 • Linux
 <hr>
 
-¡Gracias por visitar mi perfil! 🙌
+<p><b>¡Gracias por visitar mi perfil! 🙌</b></p>
